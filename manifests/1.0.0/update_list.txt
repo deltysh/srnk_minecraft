@@ -1,0 +1,2 @@
+# Paths to add/update
+test/test.txt
