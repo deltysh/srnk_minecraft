@@ -1,2 +1,0 @@
-# Paths to add/update
-mods/LovsPlayer-1.5.0.jar
