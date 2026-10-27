@@ -2,4 +2,3 @@
 mods/create-aeronautics-bundled-1.21.1-1.3.0.jar
 mods/ALPHA-2 create_submarine-3.4.1.jar
 mods/Alpha-create_submarine-3.4.0.jar
-или новая строка.
