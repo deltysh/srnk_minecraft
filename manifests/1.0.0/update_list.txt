@@ -1,3 +1,0 @@
-# Paths to add/update
-mods/
-emotes/
