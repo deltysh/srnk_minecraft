@@ -1,0 +1,3 @@
+# Paths to add/update
+mods/warnnobility-neoforge-1.1.4-1.21.1-java21.jar
+mods/dreamdisplays-neoforge-1.21.1-1.10.6.jar
