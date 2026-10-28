@@ -1,0 +1,2 @@
+# Paths to remove
+mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar
