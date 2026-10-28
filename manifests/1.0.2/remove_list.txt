@@ -1,0 +1,13 @@
+# Paths to remove
+mods/fix_tfmgcontroller-1.0.3.jar
+mods/grieflogger-1.2.10-1.21.1-neoforge.jar
+mods/grieflogger-1.2.9-1.21.1-neoforge.jar
+mods/EssentialCore-1.21.1-7.0.0.jar
+mods/neologin-1.1.2.jar
+mods/Chatty.jar
+mods/neoforge-21.1.228-installer.jar
+mods/neoforge-21.1.248-installer.jar
+mods/LPC-3.6.1.jar
+mods/EssentialsX-2.21.0.jar
+mods/CMI-9.7.13.0.jar
+mods/CMILib1.5.4.3.jar
