@@ -1,0 +1,2 @@
+# Paths to remove
+mods/ftb-library-neoforge-2101.1.31.jar

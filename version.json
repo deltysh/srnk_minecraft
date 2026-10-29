@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "manifest_version":  1,
-    "manifest_path":  "manifests/1.0.6/update_list.txt",
-    "remove_manifest_path":  "manifests/1.0.6/remove_list.txt",
+    "manifest_path":  "manifests/1.0.7/update_list.txt",
+    "remove_manifest_path":  "manifests/1.0.7/remove_list.txt",
     "changelog_path":  "changelog.md",
-    "published_at":  "2026-10-28T21:37:59Z"
+    "published_at":  "2026-10-29T16:16:25Z"
 }
