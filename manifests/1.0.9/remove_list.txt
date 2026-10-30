@@ -1,0 +1,3 @@
+# Paths to remove
+emotes/osu.json
+emotes/osu2.0.json
