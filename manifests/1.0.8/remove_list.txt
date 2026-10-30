@@ -1,0 +1,2 @@
+# Paths to remove
+mods/neotpa-1.0.0.jar
