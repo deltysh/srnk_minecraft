@@ -1,0 +1,2 @@
+# Paths to remove
+mods/dreamdisplays-neoforge-1.21.1-1.10.7.jar
