@@ -1,0 +1,4 @@
+# Paths to add/update
+mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar
+mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar
+mods/entityculling-neoforge-1.11.3-mc1.21.1.jar

@@ -1,0 +1,2 @@
+# Paths to remove
+mods/lithium-neoforge-0.15.4+mc1.21.1.jar
