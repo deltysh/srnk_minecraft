@@ -1,0 +1,2 @@
+# Paths to add/update
+mods/create_submarine-3.4.7.jar
