@@ -1,0 +1,6 @@
+# Paths to add/update
+mods/create_submarine-3.4.8.jar
+mods/loconautics-0.1.3BETA.jar
+mods/createnuclear-2.0.1-neoforge.jar
+mods/geckolib-neoforge-1.21.1-4.9.2.jar
+mods/fnafmw-alpha-1.0.0-snapshot-1.1.jar

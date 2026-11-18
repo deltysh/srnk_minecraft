@@ -1,0 +1,6 @@
+# Paths to remove
+mods/geckolib-neoforge-1.21.1-4.9.3.jar
+mods/create_submarine-3.4.7.jar
+mods/createnuclear_radiation-1.1.0r+-neoforge.jar
+mods/createnucleartech-0.1.jar
+mods/createnuclear-1.3.2-beta.3-neoforge.jar
